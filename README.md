@@ -1,6 +1,6 @@
 # Electric Vehicle Market Analysis
 
-![Electric Vehicle Market Analysis Dashboard](images/dashboard_sample.png)
+![Electric Vehicle Market Analysis Dashboard]("Screenshot 2024-10-06 202146.png")
 
 ## Project Overview
 This project focuses on the electric vehicle (EV) market analysis for the Indian market. The objective is to provide insights for a US-based automotive company planning to introduce their electric vehicles in India. Using Power BI, this analysis highlights key market trends, consumer preferences, and the competitive landscape, offering actionable insights to guide the company's market entry strategy.
